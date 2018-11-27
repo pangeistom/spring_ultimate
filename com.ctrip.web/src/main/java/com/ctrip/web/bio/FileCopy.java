@@ -30,7 +30,12 @@ public class FileCopy {
         FileUtils.copyFile(source, dest);
     }
 
-
+    /**
+     *测试
+     * @param source
+     * @param dest
+     * @throws IOException
+     */
     private static void copyFileUsingFileStreams(File source, File dest)
             throws IOException {
         InputStream input = null;

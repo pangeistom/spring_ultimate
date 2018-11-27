@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ctrip.dao.mapper.PersonInfoMapper">
+    <insert id="insertIntoPerson" parameterType="com.ctrip.entity.bo.PersonInfo">
+         insert  into  PersonInfo(personName,datacreatTime,homeid) values
+        (#{personName},#{datacreatTime},#{HomeId})
+    </insert>
+
+
+    <resultMap id="result" type="PersonInfo">
+        <id column="HomeId" property="HomeId"></id>
+        <result column="SequenceId" property="seceId"></result>
+    </resultMap>
+    <select id="getPersonList" resultMap="result">
+        select Personid,personName,datacreatTime,homeId,SequenceId from  Personinfo
+    </select>
+
+    <!--<resultMap id="oneMap" type="">-->
+
+    <!--</resultMap>-->
+
+    <!--<select id="selectOnePersonInfo" resultMap="oneMap">-->
+     <!--select PersonId,PersonName, ps.datacreatTime,ps.HomeId,SequenceId,price address-->
+    <!--from PersonInfo  ps  LEFT JOIN homeinformation hm on ps.homeid =hm.homeid-->
+    <!--</select>-->
+
+
+</mapper>
+

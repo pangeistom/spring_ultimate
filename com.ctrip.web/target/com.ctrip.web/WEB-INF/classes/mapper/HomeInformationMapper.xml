@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ctrip.dao.mapper.HomeInformationMapper">
+    <select id="selectHomeInfo" parameterType="Integer" resultType="HomeInformationBo">
+     select * from homeInformation where homeid = #{id}
+  </select>
+
+
+    <!--${} 相当于字符串拼接-->
+    <select id="selectHomeList" parameterType="String" resultType="com.ctrip.entity.bo.HomeInformationBo">
+        select * from  homeInformation where address like '%${value}%'
+    </select>
+
+    <!--插入数据并且获取ID-->
+    <insert id="insertHomeInfo" parameterType="com.ctrip.entity.bo.HomeInformationBo">
+        <selectKey keyProperty="homeId" resultType="Integer" order="AFTER">
+            select LAST_INSERT_ID()
+        </selectKey>
+        insert into homeInformation(address,datacreatTime,price) values
+        (#{address},#{datacreatTime},#{price})
+    </insert>
+</mapper>

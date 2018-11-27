@@ -1,0 +1,4 @@
+com\ctrip\service\OneService.class
+com\ctrip\service\HomeInformationService.class
+com\ctrip\service\OneUser.class
+com\ctrip\service\PersonInfoService.class

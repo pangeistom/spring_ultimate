@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="com.ctrip.web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java" description="isInfoEnabled" line="291" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" description="setDispatchOptionsRequest(true);" line="364" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c28c64c5-e5dd-46a1-824d-4b766b245289" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/com.ctrip.web/target/" />
+    <ignored path="$PROJECT_DIR$/com.ctrip.entity/target/" />
+    <ignored path="$PROJECT_DIR$/com.ctrip.aspect/target/" />
+    <ignored path="$PROJECT_DIR$/com.ctrip.service/target/" />
+    <ignored path="$PROJECT_DIR$/com.ctrip.dao/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FirstController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonViewRequestBodyAdvice.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/JsonViewRequestBodyAdvice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvocableHandlerMethod.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3315">
+              <caret line="227" column="18" selection-start-line="227" selection-start-column="18" selection-end-line="227" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContextLoader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6273">
+              <caret line="409" column="5" selection-start-line="409" selection-start-column="5" selection-end-line="409" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractApplicationContext.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8058">
+              <caret line="577" column="5" selection-start-line="577" selection-start-column="5" selection-end-line="577" selection-end-column="5" />
+              <folding>
+                <element signature="e#11331#11332#0" expanded="true" />
+                <element signature="e#11356#11357#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5270">
+              <caret line="366" selection-start-line="366" selection-end-line="366" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpServletBean.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/HttpServletBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1887">
+              <caret line="157" selection-start-line="157" selection-end-line="157" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrameworkServlet.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9639">
+              <caret line="650" column="39" selection-start-line="650" selection-start-column="39" selection-end-line="650" selection-end-column="39" />
+              <folding>
+                <element signature="e#13914#13915#0" expanded="true" />
+                <element signature="e#13949#13950#0" expanded="true" />
+                <element signature="e#15884#15885#0" expanded="true" />
+                <element signature="e#15924#15925#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41038">
+              <caret line="2506" column="28" selection-start-line="2506" selection-start-column="28" selection-end-line="2506" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#44347#44348#0" expanded="true" />
+                <element signature="e#44395#44396#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sqlSessionFactory</find>
+      <find>HomeId</find>
+      <find>注解方式初始化对象</find>
+      <find>开始就创建了</find>
+      <find>@RequestBody</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/com.ctrip.entity/src/main/java/com/ctrip/entity/bo/User.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/OneService.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/sqlMapConfig" />
+        <option value="$PROJECT_DIR$/com.ctrip.dao/src/main/java/com/ctrip/dao/mapper/HomeInformationMapper.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.dao/src/main/java/com/ctrip/dao/mapper/HomeInformationMapper.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/pom.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/HomeInformationService.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/mapper/HomeInformationMapper.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/mapper/PersonInfo.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/OneUser.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.entity/src/main/java/com/ctrip/entity/bo/HomeInformationBo.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/TestClass.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/pom.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/netty/DiscardServerHandler.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/netty/DiscardServer.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/bio/FileTest.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/bio/FileCopy.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/bio/FileBasic.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/snowflake/SnowflakeIdWorker.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/Cache/JetCacheConfig.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/Cache/LocalCacheManager.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.dao/src/main/java/com/ctrip/dao/mapper/PersonInfoMapper.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/PersonInfoService.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.entity/src/main/java/com/ctrip/entity/bo/PersonInfo.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/mapper/PersonInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/spring/spring-context.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/resources/spring/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/quartz/HelloJob.java" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/quartz/HelloScheduler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\MavenConntrol\repository" />
+        <option name="mavenHome" value="H:/MavenConntrol/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="H:\MavenConntrol\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-149" />
+    <option name="y" value="78" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mavenweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\IDEAPROJECT\mavenweb\com.ctrip.web\src\main\resources\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\IDEAPROJECT\mavenweb\com.ctrip.web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.pange">
+    <configuration name="DiscardServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctrip.web.netty.DiscardServer" />
+      <module name="com.ctrip.web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctrip.web.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FileBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctrip.web.bio.FileBasic" />
+      <module name="com.ctrip.web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctrip.web.bio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HelloScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctrip.web.quartz.HelloScheduler" />
+      <module name="com.ctrip.web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctrip.web.quartz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestClass.testMapper2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.ctrip.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctrip.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ctrip.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.ctrip.web.controller.TestClass" />
+      <option name="METHOD_NAME" value="testMapper2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestClass.testThree3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.ctrip.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctrip.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ctrip.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.ctrip.web.controller.TestClass" />
+      <option name="METHOD_NAME" value="testThree3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="pange" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="com.ctrip.web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mavenweb_5" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="true" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="true" />
+      <log_file alias="Tomcat Localhost Access Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost_access_log.*" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63283" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="com.ctrip.web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.pange" />
+      <item itemvalue="JUnit.TestClass.testMapper2" />
+      <item itemvalue="JUnit.TestClass.testThree3" />
+      <item itemvalue="Application.DiscardServer" />
+      <item itemvalue="Application.FileBasic" />
+      <item itemvalue="Application.HelloScheduler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloScheduler" />
+        <item itemvalue="Application.FileBasic" />
+        <item itemvalue="Application.DiscardServer" />
+        <item itemvalue="JUnit.TestClass.testThree3" />
+        <item itemvalue="JUnit.TestClass.testMapper2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28c64c5-e5dd-46a1-824d-4b766b245289" name="Default" comment="" />
+      <created>1536377736595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536377736595</updated>
+      <workItem from="1536377739789" duration="24278000" />
+      <workItem from="1537011734096" duration="1336000" />
+      <workItem from="1538536384743" duration="2406000" />
+      <workItem from="1538571939786" duration="212000" />
+      <workItem from="1538572294583" duration="109000" />
+      <workItem from="1538733896805" duration="1239000" />
+      <workItem from="1538883053997" duration="24301000" />
+      <workItem from="1539010156600" duration="598000" />
+      <workItem from="1539094939298" duration="3012000" />
+      <workItem from="1539098667645" duration="6360000" />
+      <workItem from="1539184436352" duration="2794000" />
+      <workItem from="1539267543925" duration="11966000" />
+      <workItem from="1539488678429" duration="11874000" />
+      <workItem from="1539695469769" duration="24755000" />
+      <workItem from="1540720289961" duration="3050000" />
+      <workItem from="1541328280943" duration="2367000" />
+      <workItem from="1541934348119" duration="1572000" />
+      <workItem from="1543322625887" duration="1023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 14m 27s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 19m 37s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 20m 59s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 40m 59s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 42m 39s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 46m 39s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 49m 04s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 50m 47s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 11h 55m 00s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_testThree3 - 2018.10.14 at 12h 05m 27s.xml">
+      <configuration name="TestClass.testThree3" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123252000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32784185" />
+      <window_info anchor="right" id="Maven Projects" order="0" sideWeight="0.49753696" visible="true" weight="0.19591528" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50246304" side_tool="true" visible="true" weight="0.19591528" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.40197694" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.3294893" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" weight="0.32673267" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.13248639" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.3294893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.330033" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49881798" visible="true" weight="0.20196672" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.27841845" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3476112" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/TestClass.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/TestClass.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/HomeInformationService.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/PersonInfoService.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/TestClass.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/TestClass.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/TestClass.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/netty/DiscardServerHandler.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/bio/FileBasic.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/Cache/LocalCacheManager.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/PersonInfoService.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java</url>
+          <line>447</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/HttpServletBean.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/HttpServletBean.java</url>
+          <line>153</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>553</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/HttpServletBean.java</url>
+          <line>157</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>527</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>633</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>643</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="59" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="((MyBatisSystemException)ex.target).cause" custom="org.mybatis.spring.MyBatisSystemException" />
+        <watch expression="ex.detailMessage" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>getServletConfig()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>beanFactory.getSingletonNames()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>personList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>in.isReadable()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>boClass.getClassLoader()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>boClass.getDeclaredFields()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>boClass.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>boClass.getFields()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>selectHomeList.get(0).getGoTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.0.8.RELEASE/spring-jcl-5.0.8.RELEASE.jar!/org/apache/commons/logging/LogFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="601" column="9" lean-forward="true" selection-start-line="601" selection-start-column="9" selection-end-line="601" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.0.8.RELEASE/spring-jcl-5.0.8.RELEASE-sources.jar!/org/apache/commons/logging/LogFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="278" column="21" selection-start-line="278" selection-start-column="16" selection-end-line="278" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/HierarchicalBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/ConfigurableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/resources/mapper/HomeInformationMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/resources/mapper/PersonInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/AbstractPropertyAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/context/WebApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/context/support/WebApplicationContextUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/OneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.service/src/main/java/com/ctrip/service/OneUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/resources/spring/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.dao/src/main/java/com/ctrip/dao/mapper/HomeInformationMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.dao/src/main/java/com/ctrip/dao/mapper/PersonInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE-sources.jar!/org/springframework/util/AntPathMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/util/AntPathMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.49/fastjson-1.2.49.jar!/com/alibaba/fastjson/serializer/SerializerFeature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.49/fastjson-1.2.49-sources.jar!/com/alibaba/fastjson/serializer/SerializerFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0-sources.jar!/org/quartz/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/Job.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0-sources.jar!/org/quartz/JobBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0-sources.jar!/org/quartz/TriggerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4233">
+          <caret line="269" column="47" selection-start-line="269" selection-start-column="47" selection-end-line="269" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0-sources.jar!/org/quartz/Trigger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0-sources.jar!/org/quartz/ScheduleBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0-sources.jar!/org/quartz/CronScheduleBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0-sources.jar!/org/quartz/SimpleScheduleBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4692">
+          <caret line="294" column="20" selection-start-line="294" selection-start-column="20" selection-end-line="294" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/quartz/HelloJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/quartz/HelloScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9486">
+          <caret line="602" column="6" selection-start-line="602" selection-start-column="6" selection-end-line="602" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5729">
+          <caret line="365" column="7" selection-start-line="365" selection-start-column="7" selection-end-line="365" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41038">
+          <caret line="2506" column="28" selection-start-line="2506" selection-start-column="28" selection-end-line="2506" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6273">
+          <caret line="409" column="5" selection-start-line="409" selection-start-column="5" selection-end-line="409" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8058">
+          <caret line="577" column="5" selection-start-line="577" selection-start-column="5" selection-end-line="577" selection-end-column="5" />
+          <folding>
+            <element signature="e#11331#11332#0" expanded="true" />
+            <element signature="e#11356#11357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5270">
+          <caret line="366" selection-start-line="366" selection-end-line="366" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="227" column="18" selection-start-line="227" selection-start-column="18" selection-end-line="227" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/HttpServletBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9639">
+          <caret line="650" column="39" selection-start-line="650" selection-start-column="39" selection-end-line="650" selection-end-column="39" />
+          <folding>
+            <element signature="e#13914#13915#0" expanded="true" />
+            <element signature="e#13949#13950#0" expanded="true" />
+            <element signature="e#15884#15885#0" expanded="true" />
+            <element signature="e#15924#15925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.ctrip.web/src/main/java/com/ctrip/web/controller/FirstController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/JsonViewRequestBodyAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>com.ctrip.web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (com.ctrip.web)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|web|ctrip</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-expression:5.0.8.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
